@@ -63,7 +63,6 @@
 - [Работа №1: Автономная навигация по путевым точкам](simulator_robot/lab1-waypoint.md)
 - [Работа №2: Детекция объектов YOLO](simulator_robot/lab2-yolo.md)
 - [Типовые ошибки](simulator_robot/common-errors-lab.md)
-- [Результаты экспериментов](simulator_robot/walking_robot_sim/experiments/)
 
 > **Оригинальный репозиторий:** [github.com/RedAlexDad/WalkingRobotSim](https://github.com/RedAlexDad/WalkingRobotSim) — тег `v.0.0.4` (актуальная версия для лабораторных работ).
 

@@ -11,7 +11,6 @@
 ## Полезное
 
 - [Типовые ошибки](common-errors-lab.md)
-- [Результаты экспериментов](walking_robot_sim/experiments/)
 
 ## Исходный код
 
