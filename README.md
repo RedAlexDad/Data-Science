@@ -56,14 +56,14 @@
 
 ### Симулятор четвероногого робота (ROS 2 + Gazebo)
 
-Цикл лабораторных работ по ROS 2 на примере автономной навигации четвероногого робота в симуляции Gazebo с Nav2 и детекцией объектов YOLO. Проект работает в Docker-контейнере.
+Цикл лабораторных работ по ROS 2 на примере автономной навигации четвероногого робота в симуляции Gazebo с Nav2 и детекцией объектов YOLO. Проект работает в Docker-контейнере. Методички доступны напрямую, исходный код симулятора — через git-субмодуль.
 
-- [Исходный код симулятора (подмодуль)](walking_robot_sim/)
-- [Работа №0: Установка, сборка и запуск](exercise/lab0-introduction.md)
-- [Работа №1: Автономная навигация по путевым точкам](exercise/lab1-waypoint.md)
-- [Работа №2: Детекция объектов YOLO](exercise/lab2-yolo.md)
-- [Типовые ошибки](exercise/common-errors-lab.md)
-- [Результаты экспериментов](walking_robot_sim/experiments/)
+- [Симулятор четвероногого робота](simulator_robot/)
+- [Работа №0: Установка, сборка и запуск](simulator_robot/exercise/lab0-introduction.md)
+- [Работа №1: Автономная навигация по путевым точкам](simulator_robot/exercise/lab1-waypoint.md)
+- [Работа №2: Детекция объектов YOLO](simulator_robot/exercise/lab2-yolo.md)
+- [Типовые ошибки](simulator_robot/exercise/common-errors-lab.md)
+- [Результаты экспериментов](simulator_robot/walking_robot_sim/experiments/)
 
 > **Оригинальный репозиторий:** [github.com/RedAlexDad/WalkingRobotSim](https://github.com/RedAlexDad/WalkingRobotSim) — тег `v.0.0.4` (актуальная версия для лабораторных работ).
 
