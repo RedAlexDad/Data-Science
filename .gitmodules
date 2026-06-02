@@ -1,0 +1,3 @@
+[submodule "walking_robot_sim"]
+	path = walking_robot_sim
+	url = git@github.com:RedAlexDad/WalkingRobotSim.git
